@@ -494,12 +494,9 @@
   }
 }
 
-@keyframes arrow-animation {
-  0% {
-    height: 10px;
-  }
-  100% {
-    height: 90px;
+@media screen and (min-width: 768px) {
+  body {
+    display: none;
   }
 }
 /*# sourceMappingURL=style.css.map */
