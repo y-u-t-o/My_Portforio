@@ -246,8 +246,6 @@
   -o-object-fit: cover;
      object-fit: cover;
   opacity: .7;
-  -webkit-transform: translateX(-100%);
-          transform: translateX(-100%);
 }
 
 .container .about .about-name {
